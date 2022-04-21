@@ -39,7 +39,7 @@ const sendEmail = (e) => {
             <FaFacebookMessenger className='contact__option-icon'/>
             <h4>Messenger</h4>
             <h5>Rasik Silwal</h5>
-            <a href="https://www.messenger.com/t/100009862396009/" target='_blank'>Send a message</a>
+            <a href="https://www.messenger.com/t/100004642603565" target='_blank'>Send a message</a>
           </article>
 
           <article className='contact__option'>

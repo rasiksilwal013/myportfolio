@@ -2,6 +2,7 @@
             background: rgba(198, 196, 203, 0.3);
             width: max-content;
             display: block;
+            height: 4.5rem;
             padding: 0.5rem 0.5rem;
             z-index: 2;
             position: fixed;
