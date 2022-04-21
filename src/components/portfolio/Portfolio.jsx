@@ -18,7 +18,7 @@ const Portfolio = () => {
         </div>
         <h3>Scrypt Spider WebPage</h3>
         <div className='portfolio_item-cta'>
-        <a href='' target='_blank' className='btn'>Github</a>
+        <a href='https://github.com/rasiksilwal013/scryptspider' target='_blank' className='btn'>Github</a>
         <a href='https://www.scryptspider.com/' target='_blank' className='btn btn-primary'>Live Demo</a>
         </div>        
         </article>
@@ -28,8 +28,8 @@ const Portfolio = () => {
         </div>
         <h3>Maven Nepal</h3>
         <div className='portfolio_item-cta'>
-        <a href='' target='_blank' className='btn'>Github</a>
-        <a href='' target='_blank' className='btn btn-primary'>Live Demo</a>
+        <a href='https://github.com/rasiksilwal013/react-landing-page' target='_blank' className='btn'>Github</a>
+        <a href='https://www.mavennepal.com/' target='_blank' className='btn btn-primary'>Live Demo</a>
         </div>        
         </article>
         <article className='portfolio_item'>
